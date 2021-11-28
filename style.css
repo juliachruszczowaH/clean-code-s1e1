@@ -102,7 +102,7 @@ button {
 }
 
 /* New Task */
-.heading.label {
+#add-task .heading {
   display: block;
   margin: 0 0 20px;
 }
